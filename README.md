@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center"> 
-  V I S I T O R  C O U N T<br>
+  V I S I T O R - C O U N T<br>
   <img src="https://profile-counter.glitch.me/tprvx/count.svg"/>
 </p>
 
